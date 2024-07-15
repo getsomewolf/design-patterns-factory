@@ -1,4 +1,4 @@
-import createCore from './core.js';
+import createCore from './modules/core.js';
 
 const core = createCore();
 
